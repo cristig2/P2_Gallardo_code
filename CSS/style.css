@@ -1,3 +1,11 @@
-*, ::after, ::before {
-    box-sizing: border-box;
+body {
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 30px;
+}
+section {
+    
+    border-radius: 5px;
+    border-color: lightgray;
+    
 }
